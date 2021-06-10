@@ -1,0 +1,24 @@
+[33mcommit 0595aa7f9a43d8a1fbbd2f2db86c63e998073189[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: e6b4629 64812a6
+Author: AFelipeBeltran <felipebeltranporras@gmail.com>
+Date:   Wed Jun 9 19:43:03 2021 -0500
+
+    Merge branch 'main' of https://github.com/tomas-correa/actividad9-6
+
+[33mcommit e6b4629fc022e34fd3bde20e26d55983bff6de58[m
+Author: AFelipeBeltran <felipebeltranporras@gmail.com>
+Date:   Wed Jun 9 19:38:36 2021 -0500
+
+    Agrego 3 archivos Felipe
+
+[33mcommit 64812a620ca5e99cd8c7797da5d804a217d3ad72[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tomas-correa <tomascorrea93@gmail.com>
+Date:   Wed Jun 9 21:38:00 2021 -0300
+
+    subo archivo sarasa
+
+[33mcommit dc1532b545831ccf37dbaa7be51b4d124873036d[m
+Author: tomas-correa <tomascorrea93@gmail.com>
+Date:   Wed Jun 9 21:27:09 2021 -0300
+
+    subo primer archivo
